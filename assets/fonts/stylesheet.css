@@ -1,0 +1,17 @@
+@font-face {
+    font-family:"Poppins";
+    src: url("Poppins/Poppins-Black.otf") format("otf");
+    font-weight: 600;
+    font-style: italic;
+    display: swap;
+}
+
+
+@font-face {
+    font-family:"Poppins";
+    src: url("Poppins/Poppins-Black.otf") format("otf");
+    src: url("Poppins/Poppins-Black.otf") format("otf");
+    font-weight: 600;
+    font-style: italic;
+    display: swap;
+}
